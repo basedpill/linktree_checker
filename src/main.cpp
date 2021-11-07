@@ -12,6 +12,7 @@ void check(std::string url){
 
 
 int main(){
+    system("title linktr.ee checker by basedpill");
     std::string base_url = "https://linktr.ee/";
     std::ifstream file("list.txt");
     std::string line;
