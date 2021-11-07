@@ -19,6 +19,10 @@ g++ main.cpp -o linktree_checker.exe -static-libgcc -static-libstdc++
 cd src
 .\linktree_checker.exe
 ```
+## Images
+
+![Proof](https://github.com/basedpill/linktree_checker/blob/main/img/poc.PNG)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
