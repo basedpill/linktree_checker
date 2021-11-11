@@ -31,3 +31,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 (NA)
+
+## Credits
+
+```src/color.hpp``` used from (https://github.com/imfl/color-console)
